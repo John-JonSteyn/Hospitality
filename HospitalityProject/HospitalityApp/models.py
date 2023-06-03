@@ -41,3 +41,12 @@ class Appointment(models.Model):
 
     def __str__(self):
         return f'Appointment for {self.patient}'
+    
+class MedicalRecord(models.Model):
+    id = models.AutoField(primary_key=True)
+    patient = models.ForeignKey(Patient, on_delete=models.CASCADE)
+    record_file = models.FileField(upload_to='medical_records/')
+    uploaded_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f'Medical Record for {self.patient}'
