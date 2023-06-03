@@ -10,23 +10,23 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <a href="https://github.com/Bearded-Viking/Hospitality/">
-    <img src="images/logoNoBackGround.png" alt="Logo" width="576" height="360">
+  <a href="https://github.com/Thorin-the-Bearded/Hospitality/">
+    <h1>Hospitality</h1>
   </a>
 
-  <h3 align="center">Hospitality - Hospital Management System</h3>
+  <h3 align="center">The Hospital Management System, created by TON Tech.</h3>
   
   <hr>
   
   <p align="center">
     A comprehensive hospital management system developed by TON Tech, created by Thorin-the-Bearded and team.
     <br />
-    <a href="https://github.com/Bearded-Viking/Hospitality/"><strong>View Source Code »</strong></a>
+    <a href="https://github.com/Thorin-the-Bearded/Hospitality/"><strong>View Source Code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bearded-Viking/Hospitality/issues">Report Bug</a>
+    <a href="https://github.com/Thorin-the-Bearded/Hospitality/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Bearded-Viking/Hospitality/issues">Request Feature</a>
+    <a href="https://github.com/Thorin-the-Bearded/Hospitality/issues">Request Feature</a>
   </p>
 </div>
 
@@ -131,7 +131,7 @@ Simply follow these steps, as you would the doctors instructions.
 
 4. Clone the repository by entering the following command into your shell:
    ```sh
-   git clone https://github.com/Bearded-Viking/Hospitality.git
+   git clone https://github.com/Thorin-the-Bearded/Hospitality.git
    ```
 
 5. Create a virtual environment by entering the following command:
@@ -463,13 +463,13 @@ This project is created by TON Tech:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Bearded-Viking/Hospitality.svg?style=for-the-badge
-[contributors-url]: https://github.com/Bearded-Viking/Hospitality/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Bearded-Viking/Hospitality.svg?style=for-the-badge
-[forks-url]: https://github.com/Bearded-Viking/Hospitality/network/members
-[stars-shield]: https://img.shields.io/github/stars/Bearded-Viking/Hospitality.svg?style=for-the-badge
-[stars-url]: https://github.com/Bearded-Viking/Hospitality/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Bearded-Viking/Hospitality.svg?style=for-the-badge
-[issues-url]: https://github.com/Bearded-Viking/Hospitality/issues
-[license-shield]: https://img.shields.io/github/license/Bearded-Viking/Hospitality.svg?style=for-the-badge
-[license-url]: https://github.com/Bearded-Viking/Hospitality/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[contributors-url]: https://github.com/Thorin-the-Bearded/Hospitality/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[forks-url]: https://github.com/Thorin-the-Bearded/Hospitality/network/members
+[stars-shield]: https://img.shields.io/github/stars/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[stars-url]: https://github.com/Thorin-the-Bearded/Hospitality/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[issues-url]: https://github.com/Thorin-the-Bearded/Hospitality/issues
+[license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[license-url]: https://github.com/Thorin-the-Bearded/Hospitality/blob/master/LICENSE.txt
