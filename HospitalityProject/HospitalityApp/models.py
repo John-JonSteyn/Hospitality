@@ -20,3 +20,14 @@ class Patient(models.Model):
 
     def __str__(self):
         return f'{self.first_name} {self.last_name}'
+
+class MedicalHistory(models.Model):
+    id = models.AutoField(primary_key=True)
+    patient = models.ForeignKey(Patient, on_delete=models.CASCADE)
+    medical_condition = models.CharField(max_length=255)
+    treatment = models.TextField()
+    start_date = models.DateField()
+    end_date = models.DateField()
+
+    def __str__(self):
+        return f'Medical History for {self.patient}'
