@@ -275,12 +275,12 @@ Users can log out of the app to ensure the security of their data and prevent un
             - [x] treatment (TextField)
             - [x] start_date (DateField)
             - [x] end_date (DateField)
-        - [ ] Appointment Table
-            - [ ] id (AutoField)
-            - [ ] patient_id (ForeignKey to Patient table)
-            - [ ] doctor_id (ForeignKey to User table)
-            - [ ] appointment_date (DateTimeField)
-            - [ ] status (CharField)
+        - [x] Appointment Table
+            - [x] id (AutoField)
+            - [x] patient_id (ForeignKey to Patient table)
+            - [x] doctor_id (ForeignKey to User table)
+            - [x] appointment_date (DateTimeField)
+            - [x] status (CharField)
         - [ ] MedicalRecord Table
             - [ ] id (AutoField)
             - [ ] patient_id (ForeignKey to Patient table)
