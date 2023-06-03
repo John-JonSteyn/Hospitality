@@ -82,3 +82,13 @@ class Equipment(models.Model):
 
     def __str__(self):
         return self.name
+    
+class Inventory(models.Model):
+    id = models.AutoField(primary_key=True)
+    name = models.CharField(max_length=255)
+    description = models.TextField()
+    quantity = models.IntegerField()
+    expiration_date = models.DateField()
+
+    def __str__(self):
+        return self.name
