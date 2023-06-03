@@ -281,11 +281,11 @@ Users can log out of the app to ensure the security of their data and prevent un
             - [x] doctor_id (ForeignKey to User table)
             - [x] appointment_date (DateTimeField)
             - [x] status (CharField)
-        - [ ] MedicalRecord Table
-            - [ ] id (AutoField)
-            - [ ] patient_id (ForeignKey to Patient table)
-            - [ ] record_file (FileField)
-            - [ ] uploaded_at (DateTimeField)
+        - [x] MedicalRecord Table
+            - [x] id (AutoField)
+            - [x] patient_id (ForeignKey to Patient table)
+            - [x] record_file (FileField)
+            - [x] uploaded_at (DateTimeField)
         - [ ] Prescription Table
             - [ ] id (AutoField)
             - [ ] patient_id (ForeignKey to Patient table)
