@@ -50,3 +50,17 @@ class MedicalRecord(models.Model):
 
     def __str__(self):
         return f'Medical Record for {self.patient}'
+    
+
+class Prescription(models.Model):
+    id = models.AutoField(primary_key=True)
+    patient = models.ForeignKey(Patient, on_delete=models.CASCADE)
+    doctor = models.ForeignKey(User, on_delete=models.CASCADE)
+    medication_name = models.CharField(max_length=255)
+    dosage = models.CharField(max_length=50)
+    instructions = models.TextField()
+    prescribed_date = models.DateField()
+    refills_remaining = models.IntegerField()
+
+    def __str__(self):
+        return f'Prescription for {self.patient}'
