@@ -31,3 +31,13 @@ class MedicalHistory(models.Model):
 
     def __str__(self):
         return f'Medical History for {self.patient}'
+
+class Appointment(models.Model):
+    id = models.AutoField(primary_key=True)
+    patient = models.ForeignKey(Patient, on_delete=models.CASCADE)
+    doctor = models.ForeignKey(User, on_delete=models.CASCADE)
+    appointment_date = models.DateTimeField()
+    status = models.CharField(max_length=20)
+
+    def __str__(self):
+        return f'Appointment for {self.patient}'
