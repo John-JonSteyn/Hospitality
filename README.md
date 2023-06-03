@@ -299,12 +299,12 @@ Users can log out of the app to ensure the security of their data and prevent un
             - [x] id (AutoField)
             - [x] name (CharField)
             - [x] description (TextField)
-        - [ ] Equipment Table
-            - [ ] id (AutoField)
-            - [ ] name (CharField)
-            - [ ] description (TextField)
-            - [ ] quantity (IntegerField)
-            - [ ] available (BooleanField)
+        - [x] Equipment Table
+            - [x] id (AutoField)
+            - [x] name (CharField)
+            - [x] description (TextField)
+            - [x] quantity (IntegerField)
+            - [x] available (BooleanField)
         - [ ] Inventory Table
             - [ ] id (AutoField)
             - [ ] name (CharField)
