@@ -255,11 +255,11 @@ Users can log out of the app to ensure the security of their data and prevent un
     - [x] Choose and install the appropriate database system (e.g., SQLite 3.42.0).
     - [x] Configure database settings in Django's configuration.
     - [ ] Set up database migrations and create the necessary tables:
-        - [ ] User Table
-            - [ ] id (AutoField)
-            - [ ] username (CharField)
-            - [ ] email (EmailField)
-            - [ ] password (CharField)
+        - [x] User Table
+            - [x] id (AutoField)
+            - [x] username (CharField)
+            - [x] email (EmailField)
+            - [x] password (CharField)
         - [ ] Patient Table
             - [ ] id (AutoField)
             - [ ] first_name (CharField)
