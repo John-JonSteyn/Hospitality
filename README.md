@@ -260,14 +260,14 @@ Users can log out of the app to ensure the security of their data and prevent un
             - [x] username (CharField)
             - [x] email (EmailField)
             - [x] password (CharField)
-        - [ ] Patient Table
-            - [ ] id (AutoField)
-            - [ ] first_name (CharField)
-            - [ ] last_name (CharField)
-            - [ ] date_of_birth (DateField)
-            - [ ] gender (CharField)
-            - [ ] contact_number (CharField)
-            - [ ] address (TextField)
+        - [x] Patient Table
+            - [x] id (AutoField)
+            - [x] first_name (CharField)
+            - [x] last_name (CharField)
+            - [x] date_of_birth (DateField)
+            - [x] gender (CharField)
+            - [x] contact_number (CharField)
+            - [x] address (TextField)
         - [ ] MedicalHistory Table
             - [ ] id (AutoField)
             - [ ] patient_id (ForeignKey to Patient table)
