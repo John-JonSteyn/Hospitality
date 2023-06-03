@@ -248,13 +248,13 @@ Users can log out of the app to ensure the security of their data and prevent un
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Phase 1: Project Setup and Database Initialization
+- [x] Phase 1: Project Setup and Database Initialization
     - [x] Install Python and Django.
     - [x] Set up a virtual environment.
     - [x] Create a new Django project.
     - [x] Choose and install the appropriate database system (e.g., SQLite 3.42.0).
     - [x] Configure database settings in Django's configuration.
-    - [ ] Set up database migrations and create the necessary tables:
+    - [x] Set up database migrations and create the necessary tables:
         - [x] User Table
             - [x] id (AutoField)
             - [x] username (CharField)
@@ -305,12 +305,12 @@ Users can log out of the app to ensure the security of their data and prevent un
             - [x] description (TextField)
             - [x] quantity (IntegerField)
             - [x] available (BooleanField)
-        - [ ] Inventory Table
-            - [ ] id (AutoField)
-            - [ ] name (CharField)
-            - [ ] description (TextField)
-            - [ ] quantity (IntegerField)
-            - [ ] expiration_date (DateField)
+        - [x] Inventory Table
+            - [x] id (AutoField)
+            - [x] name (CharField)
+            - [x] description (TextField)
+            - [x] quantity (IntegerField)
+            - [x] expiration_date (DateField)
 
 - [ ] Phase 2: User Management
     - [ ] Create user models and database tables.
