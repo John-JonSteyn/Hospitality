@@ -249,9 +249,9 @@ Users can log out of the app to ensure the security of their data and prevent un
 ## Roadmap
 
 - [ ] Phase 1: Project Setup and Database Initialization
-    - [ ] Install Python and Django.
-    - [ ] Set up a virtual environment.
-    - [ ] Create a new Django project.
+    - [x] Install Python and Django.
+    - [x] Set up a virtual environment.
+    - [x] Create a new Django project.
     - [ ] Choose and install the appropriate database system (e.g., SQLite 3.42.0).
     - [ ] Configure database settings in Django's configuration.
     - [ ] Set up database migrations and create the necessary tables:
