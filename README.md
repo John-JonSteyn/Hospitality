@@ -295,10 +295,10 @@ Users can log out of the app to ensure the security of their data and prevent un
             - [x] instructions (TextField)
             - [x] prescribed_date (DateField)
             - [x] refills_remaining (IntegerField)
-        - [ ] Department Table
-            - [ ] id (AutoField)
-            - [ ] name (CharField)
-            - [ ] description (TextField)
+        - [x] Department Table
+            - [x] id (AutoField)
+            - [x] name (CharField)
+            - [x] description (TextField)
         - [ ] Equipment Table
             - [ ] id (AutoField)
             - [ ] name (CharField)
