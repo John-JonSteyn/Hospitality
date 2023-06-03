@@ -472,4 +472,4 @@ This project is created by TON Tech:
 [issues-shield]: https://img.shields.io/github/issues/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
 [issues-url]: https://github.com/Thorin-the-Bearded/Hospitality/issues
 [license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
-[license-url]: https://github.com/Thorin-the-Bearded/Hospitality/blob/master/LICENSE.txt
+[license-url]: https://github.com/Thorin-the-Bearded/Hospitality/blob/master/LICENSE
