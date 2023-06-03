@@ -254,63 +254,68 @@ Users can log out of the app to ensure the security of their data and prevent un
     - [x] Create a new Django project.
     - [x] Choose and install the appropriate database system (e.g., SQLite 3.42.0).
     - [x] Configure database settings in Django's configuration.
-    - [x] Set up database migrations and create the necessary tables:
-        - [x] User Table
-            - [x] id (AutoField)
-            - [x] username (CharField)
-            - [x] email (EmailField)
-            - [x] password (CharField)
-        - [x] Patient Table
-            - [x] id (AutoField)
-            - [x] first_name (CharField)
-            - [x] last_name (CharField)
-            - [x] date_of_birth (DateField)
-            - [x] gender (CharField)
-            - [x] contact_number (CharField)
-            - [x] address (TextField)
-        - [x] MedicalHistory Table
-            - [x] id (AutoField)
-            - [x] patient_id (ForeignKey to Patient table)
-            - [x] medical_condition (CharField)
-            - [x] treatment (TextField)
-            - [x] start_date (DateField)
-            - [x] end_date (DateField)
-        - [x] Appointment Table
-            - [x] id (AutoField)
-            - [x] patient_id (ForeignKey to Patient table)
-            - [x] doctor_id (ForeignKey to User table)
-            - [x] appointment_date (DateTimeField)
-            - [x] status (CharField)
-        - [x] MedicalRecord Table
-            - [x] id (AutoField)
-            - [x] patient_id (ForeignKey to Patient table)
-            - [x] record_file (FileField)
-            - [x] uploaded_at (DateTimeField)
-        - [x] Prescription Table
-            - [x] id (AutoField)
-            - [x] patient_id (ForeignKey to Patient table)
-            - [x] doctor_id (ForeignKey to User table)
-            - [x] medication_name (CharField)
-            - [x] dosage (CharField)
-            - [x] instructions (TextField)
-            - [x] prescribed_date (DateField)
-            - [x] refills_remaining (IntegerField)
-        - [x] Department Table
-            - [x] id (AutoField)
-            - [x] name (CharField)
-            - [x] description (TextField)
-        - [x] Equipment Table
-            - [x] id (AutoField)
-            - [x] name (CharField)
-            - [x] description (TextField)
-            - [x] quantity (IntegerField)
-            - [x] available (BooleanField)
-        - [x] Inventory Table
-            - [x] id (AutoField)
-            - [x] name (CharField)
-            - [x] description (TextField)
-            - [x] quantity (IntegerField)
-            - [x] expiration_date (DateField)
+- [x] Set up database migrations and create the necessary tables:
+    - [x] User Table
+        - [x] id (AutoField)
+        - [x] username (CharField)
+        - [x] email (EmailField)
+        - [x] password (CharField)
+    - [x] Patient Table
+        - [x] id (AutoField)
+        - [x] first_name (CharField)
+        - [x] last_name (CharField)
+        - [x] date_of_birth (DateField)
+        - [x] gender (CharField)
+        - [x] contact_number (CharField)
+        - [x] address (TextField)
+    - [x] MedicalHistory Table
+        - [x] id (AutoField)
+        - [x] patient_id (ForeignKey to Patient table)
+        - [x] medical_condition (CharField)
+        - [x] treatment (TextField)
+        - [x] start_date (DateField)
+        - [x] end_date (DateField)
+    - [x] Appointment Table
+        - [x] id (AutoField)
+        - [x] patient_id (ForeignKey to Patient table)
+        - [x] doctor_id (ForeignKey to User table)
+        - [x] appointment_date (DateTimeField)
+        - [x] status (CharField)
+    - [x] MedicalRecord Table
+        - [x] id (AutoField)
+        - [x] patient_id (ForeignKey to Patient table)
+        - [x] record_file (FileField)
+        - [x] uploaded_at (DateTimeField)
+    - [x] Prescription Table
+        - [x] id (AutoField)
+        - [x] patient_id (ForeignKey to Patient table)
+        - [x] doctor_id (ForeignKey to User table)
+        - [x] medication_name (CharField)
+        - [x] dosage (CharField)
+        - [x] instructions (TextField)
+        - [x] prescribed_date (DateField)
+        - [x] refills_remaining (IntegerField)
+    - [x] Department Table
+        - [x] id (AutoField)
+        - [x] name (CharField)
+        - [x] description (TextField)
+    - [x] Equipment Table
+        - [x] id (AutoField)
+        - [x] name (CharField)
+        - [x] description (TextField)
+        - [x] quantity (IntegerField)
+        - [x] available (BooleanField)
+        - [x] purchase_date (DateField)
+        - [x] warranty_expiry_date (DateField)
+    - [x] Inventory Table
+        - [x] id (AutoField)
+        - [x] name (CharField)
+        - [x] description (TextField)
+        - [x] quantity (IntegerField)
+        - [x] expiration_date (DateField)
+        - [x] supplier (CharField)
+        - [x] supplier_contact (CharField)
+
 
 - [ ] Phase 2: User Management
     - [ ] Create user models and database tables.
