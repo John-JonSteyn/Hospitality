@@ -268,13 +268,13 @@ Users can log out of the app to ensure the security of their data and prevent un
             - [x] gender (CharField)
             - [x] contact_number (CharField)
             - [x] address (TextField)
-        - [ ] MedicalHistory Table
-            - [ ] id (AutoField)
-            - [ ] patient_id (ForeignKey to Patient table)
-            - [ ] medical_condition (CharField)
-            - [ ] treatment (TextField)
-            - [ ] start_date (DateField)
-            - [ ] end_date (DateField)
+        - [x] MedicalHistory Table
+            - [x] id (AutoField)
+            - [x] patient_id (ForeignKey to Patient table)
+            - [x] medical_condition (CharField)
+            - [x] treatment (TextField)
+            - [x] start_date (DateField)
+            - [x] end_date (DateField)
         - [ ] Appointment Table
             - [ ] id (AutoField)
             - [ ] patient_id (ForeignKey to Patient table)
