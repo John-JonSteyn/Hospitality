@@ -463,13 +463,13 @@ This project is created by TON Tech:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
 [contributors-url]: https://github.com/Thorin-the-Bearded/Hospitality/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
 [forks-url]: https://github.com/Thorin-the-Bearded/Hospitality/network/members
-[stars-shield]: https://img.shields.io/github/stars/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
 [stars-url]: https://github.com/Thorin-the-Bearded/Hospitality/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
 [issues-url]: https://github.com/Thorin-the-Bearded/Hospitality/issues
-[license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
 [license-url]: https://github.com/Thorin-the-Bearded/Hospitality/blob/master/LICENSE
