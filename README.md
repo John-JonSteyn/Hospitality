@@ -252,8 +252,8 @@ Users can log out of the app to ensure the security of their data and prevent un
     - [x] Install Python and Django.
     - [x] Set up a virtual environment.
     - [x] Create a new Django project.
-    - [ ] Choose and install the appropriate database system (e.g., SQLite 3.42.0).
-    - [ ] Configure database settings in Django's configuration.
+    - [x] Choose and install the appropriate database system (e.g., SQLite 3.42.0).
+    - [x] Configure database settings in Django's configuration.
     - [ ] Set up database migrations and create the necessary tables:
         - [ ] User Table
             - [ ] id (AutoField)
