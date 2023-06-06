@@ -10,7 +10,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <a href="https://github.com/Thorin-the-Bearded/Hospitality/">
+  <a href="https://github.com/John-JonSteyn/Hospitality/">
     <h1>Hospitality</h1>
   </a>
 
@@ -19,14 +19,14 @@
   <hr>
   
   <p align="center">
-    A comprehensive hospital management system developed by TON Tech, created by Thorin-the-Bearded and team.
+    A comprehensive hospital management system developed by TON Tech, created by Son Tech.
     <br />
-    <a href="https://github.com/Thorin-the-Bearded/Hospitality/"><strong>View Source Code »</strong></a>
+    <a href="https://github.com/John-JonSteyn/Hospitality/"><strong>View Source Code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Thorin-the-Bearded/Hospitality/issues">Report Bug</a>
+    <a href="https://github.com/John-JonSteyn/Hospitality/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Thorin-the-Bearded/Hospitality/issues">Request Feature</a>
+    <a href="https://github.com/John-JonSteyn/Hospitality/issues">Request Feature</a>
   </p>
 </div>
 
@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hospitality is a comprehensive hospital management system developed by TON Tech, a team of three university students: Thorin, Obert, and Nikolai. The system aims to streamline and enhance various hospital operations and processes, providing an efficient and user-friendly solution.
+Hospitality is a comprehensive hospital management system developed by TON Tech, a team of three university students: Steyn, Obert, and Nikolai. The system aims to streamline and enhance various hospital operations and processes, providing an efficient and user-friendly solution.
 
 Features:
 * User Authentication: The system includes a login screen with options for visitors, patients, and staff. Staff members can select their role during the login process.
@@ -131,7 +131,7 @@ Simply follow these steps, as you would the doctors instructions.
 
 4. Clone the repository by entering the following command into your shell:
    ```sh
-   git clone https://github.com/Thorin-the-Bearded/Hospitality.git
+   git clone https://github.com/John-JonSteyn/Hospitality.git
    ```
 
 5. Create a virtual environment by entering the following command:
@@ -421,7 +421,7 @@ Users can log out of the app to ensure the security of their data and prevent un
     - [ ] Launch the hospital management system.
 
 
-See the [open issues](https://github.com/Thorin-the-Bearded/Hospitality/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/John-JonSteyn/Hospitality/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -448,7 +448,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU-3.0 License. See [LICENSE](https://github.com/Thorin-the-Bearded/Hospitality/blob/main/LICENSE) for more information.
+Distributed under the GNU-3.0 License. See [LICENSE](https://github.com/John-JonSteyn/Hospitality/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -459,7 +459,7 @@ Distributed under the GNU-3.0 License. See [LICENSE](https://github.com/Thorin-t
 ## Acknowledgments
 This project is created by TON Tech:
 
-* [Thorin](https://github.com/Thorin-the-Bearded)
+* [Steyn](https://github.com/John-JonSteyn)
 * [Obert](https://github.com/obertgwamure)
 * [Nikolai](https://github.com/NikhirMG)
 
@@ -468,13 +468,13 @@ This project is created by TON Tech:
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
-[contributors-url]: https://github.com/Thorin-the-Bearded/Hospitality/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
-[forks-url]: https://github.com/Thorin-the-Bearded/Hospitality/network/members
-[stars-shield]: https://img.shields.io/github/stars/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
-[stars-url]: https://github.com/Thorin-the-Bearded/Hospitality/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
-[issues-url]: https://github.com/Thorin-the-Bearded/Hospitality/issues
-[license-shield]: https://img.shields.io/github/license/Thorin-the-Bearded/Hospitality.svg?style=for-the-badge&color=a81313
-[license-url]: https://github.com/Thorin-the-Bearded/Hospitality/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/John-JonSteyn/Hospitality.svg?style=for-the-badge&color=720303
+[contributors-url]: https://github.com/John-JonSteyn/Hospitality/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/John-JonSteyn/Hospitality.svg?style=for-the-badge&color=a81313
+[forks-url]: https://github.com/John-JonSteyn/Hospitality/network/members
+[stars-shield]: https://img.shields.io/github/stars/John-JonSteyn/Hospitality.svg?style=for-the-badge&color=720303
+[stars-url]: https://github.com/John-JonSteyn/Hospitality/stargazers
+[issues-shield]: https://img.shields.io/github/issues/John-JonSteyn/Hospitality.svg?style=for-the-badge&color=a81313
+[issues-url]: https://github.com/John-JonSteyn/Hospitality/issues
+[license-shield]: https://img.shields.io/github/license/John-JonSteyn/Hospitality.svg?style=for-the-badge&color=720303
+[license-url]: https://github.com/John-JonSteyn/Hospitality/blob/master/LICENSE
